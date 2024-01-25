@@ -4,3 +4,5 @@
 # 3. Check to see if the first and last number of the set is the same 
 # 4. If yes return "True" if no return "False"
 
+def firstval_lastval_isequal(numberList):
+    print("Given list: ", numberList)
