@@ -10,5 +10,6 @@ while True:
         set_input = int(set_input)
     else:
         print("Invalid, please input numbers.")
-        
+
         break
+    
