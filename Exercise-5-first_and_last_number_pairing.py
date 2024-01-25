@@ -15,3 +15,8 @@ def firstval_lastval_isequal(number_set):
     else:
         return False
     
+number_set_a = [12, 13, 0, 4]
+print("Are the values equal? ", firstval_lastval_isequal(number_set_a))
+
+number_set_b = [5, 9, 0, 5]
+print("Are the values equal? ", firstval_lastval_isequal(number_set_b))
